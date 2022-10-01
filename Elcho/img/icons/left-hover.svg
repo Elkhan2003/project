@@ -1,0 +1,16 @@
+<svg width="32" height="10" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="12" width="34" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="21.75633" height="80" width="30"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" transform="rotate(179.9947509765625 16.012813568115238,4.9839820861816415) " id="svg_10">
+   <path stroke="null" id="svg_9" fill="#EEC48B" d="m27.25588,0.0146l-1.42374,1.493l2.30857,2.42062l-28.11037,0l0,2.11143l28.11037,0l-2.30857,2.4207l1.42374,1.493l4.7394,-4.96941l-4.7394,-4.96934z"/>
+  </g>
+ </g>
+</svg>
