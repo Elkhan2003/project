@@ -1,2 +1,2 @@
 # Link:
-https://elkhan2003.github.io/progress-sofa-beds/
+https://elkhan2003.github.io/progress/
